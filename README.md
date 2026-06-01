@@ -1,23 +1,124 @@
-## Hi there 👋
+# K.S.V.M.S Mourya
 
-# 💫 About Me:
-# 👋 Hi, I'm K.S.V.M.S Mourya<br><br>### 🚀 Full Stack Developer | AI Enthusiast | B.Tech CSE (AI)<br><br>I'm a 2nd-year B.Tech CSE (AI) student at Pragati Engineering College passionate about building scalable full-stack applications and AI-powered solutions.<br><br>* 🌱 Currently learning: Advanced MERN Stack, System Design & DSA<br>* 🤖 Exploring: OpenAI API, Gemini API & AI Integrations<br>* 💻 Interested in: Full Stack Development, AI Applications & IoT<br>* 🎯 Goal: Become a Software Engineer and build impactful products<br>* 📫 Reach me: [mouryakotha@gmail.com](mailto:mouryakotha@gmail.com)<br><br>---<br><br>## 🌐 Connect With Me<br><br>[LinkedIn](www.linkedin.com/in/sri-venkata-mallik-sri-mourya-kotha-088739313)<br><br>---<br><br>## 💻 Tech Stack<br><br>### Languages<br><br>Java • JavaScript • Python • SQL • HTML • CSS<br><br>### Frontend<br><br>React.js • Next.js • Tailwind CSS • Vite<br><br>### Backend<br><br>Node.js • Express.js • Spring Boot<br><br>### Database<br><br>MongoDB • PostgreSQL • MySQL<br><br>### Tools & Platforms<br><br>Git • GitHub • Docker • Railway • Vercel<br><br>### AI & APIs<br><br>OpenAI API • Gemini API<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🏥 Nexus Care<br><br>MERN-based telemedicine platform featuring:<br><br>* Video consultations using Socket.io<br>* JWT Authentication & Role Management<br>* AI-powered symptom triage using Gemini API<br><br>**Tech:** MERN, Socket.io, Gemini API, Tailwind CSS<br><br>---<br><br>### ♻️ Smart Dustbin – Eco Points<br><br>IoT-enabled smart waste management solution featuring:<br><br>* Real-time waste detection<br>* Reward-based Eco Points system<br>* MongoDB Atlas cloud integration<br><br>**Tech:** Node.js, MongoDB, IoT, Railway<br><br>---<br><br>### 💪 JIMMY – AI Fitness Coach<br><br>AI-powered fitness platform featuring:<br><br>* Personalized workout plans<br>* Meal recommendations<br>* Analytics dashboard<br><br>**Tech:** React, Node.js, OpenAI API, D3.js<br><br>---<br><br>### 🌱 Smart Drip Irrigation System<br><br>ESP32-based irrigation automation system:<br><br>* Soil moisture monitoring<br>* Temperature & humidity tracking<br>* Automated watering system<br><br>**Tech:** ESP32, IoT, Sensors<br><br>---<br><br>## 📊 GitHub Stats<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)<br><br>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)<br><br>---<br><br>## 🏆 Achievements<br><br>* 🎓 B.Tech CSE (AI) Student at Pragati Engineering College<br>* 🚀 Built multiple Full Stack & IoT Projects<br>* 🤝 Coordinated IoT workshops for 50+ students<br>* 📚 Active learner in DSA, Web Development & AI<br><br>---<br><br>### 💡 "Building technology that solves real-world problems."<br>
+B.Tech CSE (AI) Student | Full Stack Developer | AI Enthusiast
 
+I'm a second-year Computer Science student specializing in Artificial Intelligence at Pragati Engineering College. I enjoy building full-stack web applications, exploring AI integrations, and solving data structures and algorithms problems.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mourya_kotha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sri Venkata Mallik Sri Mourya Kotha) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mouryakotha_07) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mourya Kotha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mouryakotha@gmail.com) 
+### Current Focus
+- Advanced MERN Stack Development
+- Data Structures & Algorithms
+- System Design Fundamentals
+- AI-powered Applications
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MouryaKotha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MouryaKotha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MouryaKotha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Interests
+- Full Stack Development
+- Artificial Intelligence
+- Software Engineering
+- IoT Solutions
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MouryaKotha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Contact
+- Email: mouryakotha@gmail.com
+- LinkedIn: www.linkedin.com/in/sri-venkata-mallik-sri-mourya-kotha-088739313
 
 ---
-[![](https://komarev.com/ghpvc/?username=MouryaKotha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tech Stack
+
+**Languages**
+
+Java • JavaScript • Python • SQL
+
+**Frontend**
+
+React.js • Next.js • Tailwind CSS • HTML • CSS
+
+**Backend**
+
+Node.js • Express.js • Spring Boot
+
+**Databases**
+
+MongoDB • PostgreSQL • MySQL
+
+**Tools**
+
+Git • GitHub • Docker • Postman • Vercel • Railway
+
+**AI & APIs**
+
+OpenAI API • Gemini API
+
+---
+
+## Featured Projects
+
+### Nexus Care
+A telemedicine platform built using the MERN stack.
+
+**Highlights**
+- Video consultations with Socket.io
+- JWT Authentication and Role-Based Access
+- AI-powered symptom triage using Gemini API
+
+**Tech Stack**
+MERN • Socket.io • Gemini API • Tailwind CSS
+
+---
+
+### Smart Dustbin – Eco Points
+An IoT-based waste management system designed to encourage responsible disposal through a reward mechanism.
+
+**Highlights**
+- Real-time waste detection
+- Eco Points reward system
+- Cloud integration using MongoDB Atlas
+
+**Tech Stack**
+Node.js • MongoDB • IoT • Railway
+
+---
+
+### JIMMY – AI Fitness Coach
+An AI-powered fitness platform focused on personalized health recommendations.
+
+**Highlights**
+- Workout recommendations
+- Meal planning
+- Progress analytics dashboard
+
+**Tech Stack**
+React • Node.js • OpenAI API
+
+---
+
+### Smart Drip Irrigation System
+An automated irrigation solution built using ESP32 and environmental sensors.
+
+**Highlights**
+- Soil moisture monitoring
+- Temperature and humidity tracking
+- Automated watering system
+
+**Tech Stack**
+ESP32 • IoT • Sensors
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=MouryaKotha&show_icons=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=MouryaKotha&layout=compact)
+
+---
+
+## Achievements
+
+- B.Tech CSE (AI), Pragati Engineering College
+- Built multiple Full Stack and IoT projects
+- Coordinated IoT workshops for 50+ students
+- Active learner in DSA, AI, and Web Development
+
+---
+
+> Building technology that solves real-world problems.
