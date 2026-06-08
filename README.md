@@ -1,147 +1,18 @@
-# Hi, I'm K.S.V.M.S Mourya 👋
+# 💫 About Me:
+# Hi, I'm K.S.V.M.S Mourya<br><br>### Full Stack Developer | AI & IoT Enthusiast<br><br>I'm a B.Tech Computer Science (Artificial Intelligence) student at Pragati Engineering College with a strong interest in Full Stack Development, Artificial Intelligence, and IoT systems.<br><br>I enjoy building practical software that solves real-world problems, from AI-powered applications to hardware-integrated IoT solutions. Currently, I'm focused on improving my skills in software engineering, system design, and scalable web application development.<br><br>---<br><br>## About Me<br><br>* B.Tech CSE (AI), Pragati Engineering College (2024–2028)<br>* Current CGPA: **8.5**<br>* Full Stack Developer with a focus on the MERN stack<br>* Building AI-powered applications using OpenAI and Gemini APIs<br>* Coordinator at the Pragati IoT Club<br>* Open to internships, freelance projects, and collaborations<br><br>---<br><br>## Connect With Me<br><br>* Portfolio: https://lnkd.in/dKQX4ftB<br>* LinkedIn: https://www.linkedin.com/in/sri-venkata-mallik-sri-mourya-kotha-088739313<br>* Email: [mouryakotha@gmail.com](mailto:mouryakotha@gmail.com)<br>* LeetCode: https://leetcode.com/u/mourya_kotha/<br>* HackerRank: https://www.hackerrank.com/profile/24a31a43h3<br><br>---<br><br>## Tech Stack<br><br>### Languages<br><br>Java • JavaScript • Python • SQL • C<br><br>### Frontend<br><br>React.js • Next.js • Tailwind CSS • HTML5 • CSS3<br><br>### Backend<br><br>Node.js • Express.js • Spring Boot<br><br>### Databases<br><br>MongoDB • PostgreSQL • MySQL<br><br>### Tools & Platforms<br><br>Git • GitHub • Docker • Postman • Railway • Vercel • MongoDB Atlas<br><br>### AI & IoT<br><br>OpenAI API • Gemini API • ESP32 • Prompt Engineering<br><br>---<br><br>## Experience<br><br>### Java Full Stack Developer Intern — AICTE & EduSkills<br><br>**Feb 2025 – Mar 2025**<br><br>* Built full-stack modules using Spring Boot and React<br>* Developed REST APIs integrated with MySQL<br>* Improved application performance through API optimization<br>* Worked with Git workflows and CI/CD pipelines using GitHub Actions<br><br>---<br><br>## Featured Projects<br><br>### Nexus Care<br><br>A telemedicine platform built with the MERN stack.<br><br>**Highlights**<br><br>* Video consultations using Socket.io<br>* JWT authentication and role management<br>* AI-powered symptom triage using Gemini API<br>* Real-time appointment scheduling<br><br>**Stack:** MERN • Socket.io • Gemini API • Tailwind CSS<br><br>---<br><br>### Smart Dustbin – Eco Points System<br><br>An IoT-based waste management platform designed to encourage responsible disposal through a rewards system.<br><br>**Highlights**<br><br>* Real-time waste detection<br>* Eco Points reward mechanism<br>* Automated collection alerts<br>* Cloud deployment with MongoDB Atlas<br><br>**Stack:** Node.js • MongoDB • Railway • IoT<br><br>---<br><br>### JIMMY – AI Fitness Coach<br><br>A fitness platform that generates personalized workout and nutrition plans.<br><br>**Highlights**<br><br>* AI-generated meal plans<br>* Workout recommendations<br>* Progress analytics dashboard<br>* User performance tracking<br><br>**Stack:** React • Node.js • OpenAI API • D3.js<br><br>---<br><br>### Smart Drip Irrigation System<br><br>An ESP32-based irrigation automation system deployed in a live polyhouse environment.<br><br>**Highlights**<br><br>* Soil moisture monitoring<br>* Temperature and humidity tracking<br>* Automated irrigation control<br>* Remote monitoring support<br><br>**Stack:** ESP32 • IoT • Sensors<br><br>---<br><br>## Leadership<br><br>### Coordinator — Pragati IoT Club<br><br>* Conducted practical IoT workshops for 50+ students<br>* Guided students on hardware-software integration projects<br>* Promoted hands-on learning through real-world prototypes<br><br>### Coordinator — Greenery Club<br><br>* Organized sustainability initiatives and plantation drives<br>* Coordinated environmental awareness activities<br><br>---<br><br>## Certifications<br><br>* Oracle OCI Generative AI Professional<br>* AWS Solutions Architecture Virtual Experience Program (Forage)<br>* Aviatrix ACE Certification<br>* AICTE EduSkills Java Full Stack Program<br><br>---<br><br>## Currently Learning<br><br>* System Design<br>* Advanced MERN Architecture<br>* Docker & DevOps<br>* Data Structures & Algorithms<br>* AI Agents and LLM Applications<br><br>---<br><br>## GitHub Stats<br><br>![GitHub Stats](https://github-readme-stats.shion.dev/api?username=MouryaKotha\&show_icons=true)<br><br>![GitHub Streak](https://streak-stats.demolab.com/?user=MouryaKotha)<br><br>![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=MouryaKotha\&layout=compact)<br><br>---<br><br>## 2026 Goals<br><br>* Solve 500+ DSA problems<br>* Contribute to open-source projects<br>* Build production-ready AI applications<br>* Strengthen system design knowledge<br>* Secure a software engineering internship<br><br>---<br><br>> Building reliable software, AI applications, and IoT solutions that create real-world impact.<br>
 
-### Full Stack Developer | AI Enthusiast | B.Tech CSE (AI)
 
-I'm a second-year Computer Science student specializing in Artificial Intelligence at Pragati Engineering College. I enjoy building scalable web applications, exploring AI integrations, and solving real-world problems through software.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mourya_kotha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sri Venkata Mallik Sri Mourya Kotha ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Mourya_Kotha) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mourya Kotha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mouryakotha@gmail.com) 
 
-Currently focused on strengthening my skills in Full Stack Development, Data Structures & Algorithms, System Design, and AI-powered applications.
-
----
-
-## 🚀 Current Focus
-
-* Advanced MERN Stack Development
-* Data Structures & Algorithms
-* System Design Fundamentals
-* AI Integrations using OpenAI & Gemini APIs
-* Building Production-Ready Projects
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mourya Kotha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mourya Kotha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mourya Kotha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Mourya Kotha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💡 Interests
-
-* Full Stack Development
-* Artificial Intelligence
-* Software Engineering
-* Cloud Technologies
-* IoT Solutions
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-Java • JavaScript • Python • SQL
-
-### Frontend
-
-React.js • Next.js • Tailwind CSS • HTML • CSS
-
-### Backend
-
-Node.js • Express.js • Spring Boot
-
-### Databases
-
-MongoDB • PostgreSQL • MySQL
-
-### Tools & Platforms
-
-Git • GitHub • Docker • Postman • Railway • Vercel
-
-AI & APIs
-
-OpenAI API • Gemini API
-
----
-
-📌 Featured Projects
-
-Nexus Care
-
-A MERN-based telemedicine platform designed to improve healthcare accessibility.
-
-**Key Features**
-
-* Video consultations using Socket.io
-* JWT Authentication & Role Management
-* AI-powered symptom triage using Gemini API
-
-**Tech Stack**
-MERN • Socket.io • Gemini API • Tailwind CSS
-
----
-
-Smart Dustbin – Eco Points
-
-An IoT-enabled waste management system that promotes responsible waste disposal through a rewards system.
-
-**Key Features**
-
-* Real-time waste detection
-* Eco Points reward mechanism
-* MongoDB Atlas cloud integration
-
-**Tech Stack**
-Node.js • MongoDB • IoT • Railway
-
----
-JIMMY – AI Fitness Coach
-
-An AI-powered fitness platform focused on personalized health recommendations.
-
-**Key Features**
-
-* Customized workout plans
-* Meal recommendations
-* Progress analytics dashboard
-
-**Tech Stack**
-React • Node.js • OpenAI API
-
----
-
-### Smart Drip Irrigation System
-
-An automated irrigation solution powered by ESP32 and environmental sensors.
-
-**Key Features**
-
-* Soil moisture monitoring
-* Temperature & humidity tracking
-* Automated watering system
-
-**Tech Stack**
-ESP32 • IoT • Sensors
-
----
-
-## 🏆 Achievements
-
-* B.Tech CSE (AI) Student at Pragati Engineering College
-* Completed internships and industry simulation programs
-* Built Full Stack, AI, and IoT-based projects
-* Coordinated IoT workshops for 50+ students
-* Active learner in DSA, Web Development, and AI
-
----
-
-📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=MouryaKotha\&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=MouryaKotha)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=MouryaKotha\&layout=compact)
-
----
-
-🌐 Connect With Me
-
-* LinkedIn: [www.linkedin.com/in/sri-venkata-mallik-sri-mourya-kotha-088739313](http://www.linkedin.com/in/sri-venkata-mallik-sri-mourya-kotha-088739313)
-* Email: [mouryakotha@gmail.com](mailto:mouryakotha@gmail.com)
-
----
-
-> Building technology that solves real-world problems through software, AI, and innovation.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
