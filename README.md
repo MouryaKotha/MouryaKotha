@@ -173,7 +173,7 @@ const mourya = {
   Replace EVERY instance of YOUR_GITHUB_USERNAME below with your real GitHub username.
 -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&icon_color=7B42F6&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MouryaKotha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&icon_color=7B42F6&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 &nbsp;
 <img height="180em" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak"/>
 
