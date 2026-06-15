@@ -179,7 +179,7 @@ const mourya = {
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&text_color=ffffff&langs_count=10" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouryaKotha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&text_color=ffffff&langs_count=10" alt="Top Languages"/>
 
 </div>
 
@@ -189,7 +189,7 @@ const mourya = {
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00F7F7&line=7B42F6&point=00F7F7&area=true&area_color=7B42F6&hide_border=true&custom_title=Mourya's%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MouryaKotha&bg_color=0d1117&color=00F7F7&line=7B42F6&point=00F7F7&area=true&area_color=7B42F6&hide_border=true&custom_title=Mourya's%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
