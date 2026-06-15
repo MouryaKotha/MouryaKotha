@@ -10,9 +10,9 @@
 
 <!-- Profile Views & Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00F7F7&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MouryaKotha&label=Profile+Views&color=00F7F7&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=7B42F6&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/MouryaKotha?label=Followers&style=for-the-badge&color=7B42F6&labelColor=0d1117" alt="Followers"/>
 </p>
 
 <!-- Social Links -->
@@ -160,22 +160,14 @@ const mourya = {
 
 ---
 
-<!-- GitHub Stats — uses the most reliable hosted instances -->
+<!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<!--
-  ✅ WORKING SERVICES USED:
-  • github-readme-stats  → hosted on vercel.com (official, reliable)
-  • github-readme-streak-stats → streak-stats.demolab.com (most stable host)
-  • top-langs            → same github-readme-stats instance
-  Replace EVERY instance of YOUR_GITHUB_USERNAME below with your real GitHub username.
--->
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MouryaKotha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&icon_color=7B42F6&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="180em" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=MouryaKotha&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -185,7 +177,7 @@ const mourya = {
 
 ---
 
-<!-- Contribution Graph — uses the official ashutosh00710 deployment (most stable) -->
+<!-- Contribution Graph -->
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
@@ -194,7 +186,14 @@ const mourya = {
 
 ---
 
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MouryaKotha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
 
 <!-- LeetCode Stats -->
 <h2 align="center">⚡ LeetCode Stats</h2>
@@ -213,10 +212,8 @@ const mourya = {
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | ⚖️ **FOCUS MEET** | AI-powered legal assistance platform | MERN, OpenAI API, NLP |
-| 🌐 **Prithvi Smart BIN** | AI-powered Seggregation System | React, Node.js, MongoDB |
-| 🤖 **Nexus Care** | RAG-Based Healthcare Platform | RAG,MERN |
-
-> 📌 *Replace the placeholders above with your actual projects and link them!*
+| 🌐 **Prithvi Smart BIN** | AI-powered Segregation System | React, Node.js, MongoDB |
+| 🤖 **Nexus Care** | RAG-Based Healthcare Platform | RAG, MERN |
 
 </div>
 
@@ -237,17 +234,6 @@ const mourya = {
 
 ---
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=140&section=footer"/>
-
-<div align="center">
-  <i>⭐️ If you like my work, consider starring my repos — it keeps me motivated!</i>
-  <br/><br/>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  &nbsp;
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-</div>
-
 <!-- Snake Animation -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -266,4 +252,17 @@ const mourya = {
       src="https://raw.githubusercontent.com/MouryaKotha/MouryaKotha/output/github-snake.svg"
     />
   </picture>
+</div>
+
+---
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=140&section=footer"/>
+
+<div align="center">
+  <i>⭐️ If you like my work, consider starring my repos — it keeps me motivated!</i>
+  <br/><br/>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  &nbsp;
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </div>
