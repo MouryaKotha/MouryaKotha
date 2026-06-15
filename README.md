@@ -1,18 +1,55 @@
-# 💫 About Me:
-# Hi, I'm K.S.V.M.S Mourya<br><br>### Full Stack Developer | AI & IoT Enthusiast<br><br>I'm a B.Tech Computer Science (Artificial Intelligence) student at Pragati Engineering College with a strong interest in Full Stack Development, Artificial Intelligence, and IoT systems.<br><br>I enjoy building practical software that solves real-world problems, from AI-powered applications to hardware-integrated IoT solutions. Currently, I'm focused on improving my skills in software engineering, system design, and scalable web application development.<br><br>---<br><br>## About Me<br><br>* B.Tech CSE (AI), Pragati Engineering College (2024–2028)<br>* Current CGPA: **8.5**<br>* Full Stack Developer with a focus on the MERN stack<br>* Building AI-powered applications using OpenAI and Gemini APIs<br>* Coordinator at the Pragati IoT Club<br>* Open to internships, freelance projects, and collaborations<br><br>---<br><br>## Connect With Me<br><br>* Portfolio: https://lnkd.in/dKQX4ftB<br>* LinkedIn: https://www.linkedin.com/in/sri-venkata-mallik-sri-mourya-kotha-088739313<br>* Email: [mouryakotha@gmail.com](mailto:mouryakotha@gmail.com)<br>* LeetCode: https://leetcode.com/u/mourya_kotha/<br>* HackerRank: https://www.hackerrank.com/profile/24a31a43h3<br><br>---<br><br>## Tech Stack<br><br>### Languages<br><br>Java • JavaScript • Python • SQL • C<br><br>### Frontend<br><br>React.js • Next.js • Tailwind CSS • HTML5 • CSS3<br><br>### Backend<br><br>Node.js • Express.js • Spring Boot<br><br>### Databases<br><br>MongoDB • PostgreSQL • MySQL<br><br>### Tools & Platforms<br><br>Git • GitHub • Docker • Postman • Railway • Vercel • MongoDB Atlas<br><br>### AI & IoT<br><br>OpenAI API • Gemini API • ESP32 • Prompt Engineering<br><br>---<br><br>## Experience<br><br>### Java Full Stack Developer Intern — AICTE & EduSkills<br><br>**Feb 2025 – Mar 2025**<br><br>* Built full-stack modules using Spring Boot and React<br>* Developed REST APIs integrated with MySQL<br>* Improved application performance through API optimization<br>* Worked with Git workflows and CI/CD pipelines using GitHub Actions<br><br>---<br><br>## Featured Projects<br><br>### Nexus Care<br><br>A telemedicine platform built with the MERN stack.<br><br>**Highlights**<br><br>* Video consultations using Socket.io<br>* JWT authentication and role management<br>* AI-powered symptom triage using Gemini API<br>* Real-time appointment scheduling<br><br>**Stack:** MERN • Socket.io • Gemini API • Tailwind CSS<br><br>---<br><br>### Smart Dustbin – Eco Points System<br><br>An IoT-based waste management platform designed to encourage responsible disposal through a rewards system.<br><br>**Highlights**<br><br>* Real-time waste detection<br>* Eco Points reward mechanism<br>* Automated collection alerts<br>* Cloud deployment with MongoDB Atlas<br><br>**Stack:** Node.js • MongoDB • Railway • IoT<br><br>---<br><br>### JIMMY – AI Fitness Coach<br><br>A fitness platform that generates personalized workout and nutrition plans.<br><br>**Highlights**<br><br>* AI-generated meal plans<br>* Workout recommendations<br>* Progress analytics dashboard<br>* User performance tracking<br><br>**Stack:** React • Node.js • OpenAI API • D3.js<br><br>---<br><br>### Smart Drip Irrigation System<br><br>An ESP32-based irrigation automation system deployed in a live polyhouse environment.<br><br>**Highlights**<br><br>* Soil moisture monitoring<br>* Temperature and humidity tracking<br>* Automated irrigation control<br>* Remote monitoring support<br><br>**Stack:** ESP32 • IoT • Sensors<br><br>---<br><br>## Leadership<br><br>### Coordinator — Pragati IoT Club<br><br>* Conducted practical IoT workshops for 50+ students<br>* Guided students on hardware-software integration projects<br>* Promoted hands-on learning through real-world prototypes<br><br>### Coordinator — Greenery Club<br><br>* Organized sustainability initiatives and plantation drives<br>* Coordinated environmental awareness activities<br><br>---<br><br>## Certifications<br><br>* Oracle OCI Generative AI Professional<br>* AWS Solutions Architecture Virtual Experience Program (Forage)<br>* Aviatrix ACE Certification<br>* AICTE EduSkills Java Full Stack Program<br><br>---<br><br>## Currently Learning<br><br>* System Design<br>* Advanced MERN Architecture<br>* Docker & DevOps<br>* Data Structures & Algorithms<br>* AI Agents and LLM Applications<br><br>---<br><br>## GitHub Stats<br><br>![GitHub Stats](https://github-readme-stats.shion.dev/api?username=MouryaKotha\&show_icons=true)<br><br>![GitHub Streak](https://streak-stats.demolab.com/?user=MouryaKotha)<br><br>![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=MouryaKotha\&layout=compact)<br><br>---<br><br>## 2026 Goals<br><br>* Solve 500+ DSA problems<br>* Contribute to open-source projects<br>* Build production-ready AI applications<br>* Strengthen system design knowledge<br>* Secure a software engineering internship<br><br>---<br><br>> Building reliable software, AI applications, and IoT solutions that create real-world impact.<br>
+<div align="center">
 
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=K.S.V.M.S%20Mourya&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mourya_kotha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sri Venkata Mallik Sri Mourya Kotha ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Mourya_Kotha) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mourya Kotha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mouryakotha@gmail.com) 
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=850&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+IoT+Enthusiast+%F0%9F%A5%BE;MERN+Stack+Explorer+%E2%9A%A1;Building+Intelligent+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mourya Kotha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mourya Kotha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mourya Kotha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
----
-[![](https://komarev.com/ghpvc/?username=Mourya Kotha&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Social Links with Glowing Effect -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sri-venkata-mallik-sri-mourya-kotha-088739313" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="https://leetcode.com/u/mourya_kotha/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/24a31a43h3" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866"/>
+  </a>
+  <a href="mailto:mouryakotha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+
+I'm a B.Tech Computer Science (Artificial Intelligence) student at Pragati Engineering College with a strong drive for Full Stack Development, Deep Learning, and hardware-software integration. 
+
+```javascript
+const mourya = {
+    pronouns: "He/Him",
+    education: "B.Tech CSE (AI) @ Pragati Engineering College",
+    metrics: { cgpa: 8.5, batch: "2024-2028" },
+    roles: ["Coordinator @ Pragati IoT Club", "Full-Stack Engineer"],
+    motto: "Building scalable code that bridges AI and real-world hardware",
+    
+    lifeLoop: function() {
+        while(alive) {
+            eat();
+            code();
+            innovate();
+            repeat();
+        }
+    }
+};
