@@ -247,3 +247,23 @@ const mourya = {
   &nbsp;
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </div>
+
+<!-- Snake Animation -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mouryakotha/mouryakotha/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mouryakotha/mouryakotha/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/mouryakotha/mouryakotha/output/github-snake.svg"
+    />
+  </picture>
+</div>
