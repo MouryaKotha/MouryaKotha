@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # Runs every day at midnight UTC
+  workflow_dispatch:        # Allows manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write           # ✅ Required to push to the output branch
 
 jobs:
   build:
@@ -11,16 +14,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/action@v3        # ✅ Correct action path
         with:
           github_user_name: mouryakotha
           outputs: |
-            output/github-snake.svg
-            output/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: output
+          build_dir: dist                  # ✅ Must match the folder above
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
