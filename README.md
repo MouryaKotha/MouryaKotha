@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=K.S.V.M.S%20Mourya&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Mourya%20Kotha&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=900&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+IoT+Enthusiast+%F0%9F%A4%96;MERN+Stack+Explorer+%E2%9A%A1;Building+Intelligent+Applications+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -219,9 +219,9 @@ const mourya = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| ⚖️ **JUSTICE AI** | AI-powered legal assistance platform | MERN, OpenAI API, NLP |
-| 🌐 **[Your Project 2]** | Short description here | React, Node.js, MongoDB |
-| 🤖 **[Your Project 3]** | Short description here | Python, ESP32, MQTT |
+| ⚖️ **FOCUS MEET** | AI-powered legal assistance platform | MERN, OpenAI API, NLP |
+| 🌐 **Prithvi Smart BIN** | AI-powered Seggregation System | React, Node.js, MongoDB |
+| 🤖 **Nexus Care** | RAG-Based Healthcare Platform | RAG,MERN |
 
 > 📌 *Replace the placeholders above with your actual projects and link them!*
 
