@@ -34,25 +34,28 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-I'm a B.Tech Computer Science (Artificial Intelligence) student at Pragati Engineering College with a strong drive for Full Stack Development, Deep Learning, and hardware-software integration. 
-
-```javascript
+```javascript```
 const mourya = {
     pronouns: "He/Him",
-    education: "B.Tech CSE (AI) @ Pragati Engineering College",
-    metrics: { cgpa: 8.5, batch: "2024-2028" },
-    roles: ["Coordinator @ Pragati IoT Club", "Full-Stack Engineer"],
-    motto: "Building scalable code that bridges AI and real-world hardware",
-    
+    location: "India 🇮🇳",
+    currentFocus: "JUSTICE AI 🔭",
+    learning: ["MERN Stack", "System Design"],
+    interests: ["Problem Solving", "Web Development", "AI/ML"],
+    motto: "Bugs in my head never make me sleep ^_^",
+
     lifeLoop: function() {
         while(alive) {
             eat();
             code();
-            innovate();
+            solve();
             repeat();
         }
     }
 };
+
+<br clear="right"/>
+
+<br clear="right"/>
 
 <!-- Wave Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -63,7 +66,7 @@ const mourya = {
   Tech Arsenal
 </h2>
 
-### 🎨 Frontend Magic
+#### 🎨 Frontend Magic
 <p align="left">  
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -72,21 +75,21 @@ const mourya = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### ⚙️ Backend Power
+#### ⚙️ Backend Power
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
-### 🗄️ Database & Cloud
+#### 🗄️ Database & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🤖 AI & Embedded IoT
+#### 🤖 AI & Embedded IoT
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-9B51E0?style=for-the-badge&logo=google-gemini&logoColor=white" />
@@ -94,7 +97,7 @@ const mourya = {
   <img src="https://img.shields.io/badge/Prompt_Engineering-00F7F7?style=for-the-badge&logo=instructables&logoColor=black" />
 </p>
 
-### 💻 Languages & Tools
+#### 💻 Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
