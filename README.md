@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=220&section=header&text=K.S.V.M.S%20Mourya&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20IoT%20Enthusiast&descSize=20&descAlignY=58&descColor=aafaff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=K.S.V.M.S%20Mourya&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=900&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+IoT+Enthusiast+%F0%9F%A4%96;MERN+Stack+Explorer+%E2%9A%A1;Building+Intelligent+Applications+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -10,9 +10,9 @@
 
 <!-- Profile Views & Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mourya-kotha&label=Profile+Views&color=00F7F7&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00F7F7&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/mourya-kotha?label=Followers&style=for-the-badge&color=7B42F6&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=7B42F6&labelColor=0d1117" alt="Followers"/>
 </p>
 
 <!-- Social Links -->
@@ -34,6 +34,7 @@
   </a>
 </p>
 
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
@@ -47,12 +48,12 @@
 
 ```javascript
 const mourya = {
-    pronouns  : "He / Him",
-    location  : "India 🇮🇳",
+    pronouns     : "He / Him",
+    location     : "India 🇮🇳",
     currentFocus : "JUSTICE AI 🔭",
-    learning  : ["MERN Stack", "System Design", "Cloud Architecture"],
-    interests : ["Problem Solving", "Web Development", "AI/ML", "IoT"],
-    motto     : "Bugs in my head never make me sleep ^_^",
+    learning     : ["MERN Stack", "System Design", "Cloud Architecture"],
+    interests    : ["Problem Solving", "Web Development", "AI/ML", "IoT"],
+    motto        : "Bugs in my head never make me sleep ^_^",
 
     getStack() {
         return {
@@ -159,36 +160,45 @@ const mourya = {
 
 ---
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats — uses the most reliable hosted instances -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mourya-kotha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&icon_color=7B42F6&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mourya-kotha&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7" alt="GitHub Streak"/>
+<!--
+  ✅ WORKING SERVICES USED:
+  • github-readme-stats  → hosted on vercel.com (official, reliable)
+  • github-readme-streak-stats → streak-stats.demolab.com (most stable host)
+  • top-langs            → same github-readme-stats instance
+  Replace EVERY instance of YOUR_GITHUB_USERNAME below with your real GitHub username.
+-->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&icon_color=7B42F6&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+&nbsp;
+<img height="180em" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mourya-kotha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&text_color=ffffff&langs_count=10" alt="Top Languages"/>
 
 </div>
 
 ---
 
-<!-- Activity Graph -->
+<!-- Contribution Graph — uses the official ashutosh00710 deployment (most stable) -->
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mourya-kotha&bg_color=0d1117&color=00F7F7&line=7B42F6&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00F7F7&line=7B42F6&point=00F7F7&area=true&area_color=7B42F6&hide_border=true&custom_title=Mourya's%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
 
-<!-- Trophies -->
+<!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mourya-kotha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -197,7 +207,7 @@ const mourya = {
 <h2 align="center">⚡ LeetCode Stats</h2>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/mourya_kotha?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/mourya_kotha?theme=dark&font=Fira%20Code&ext=activity&border=0&radius=10" alt="LeetCode Stats"/>
 </div>
 
 ---
@@ -213,7 +223,7 @@ const mourya = {
 | 🌐 **[Your Project 2]** | Short description here | React, Node.js, MongoDB |
 | 🤖 **[Your Project 3]** | Short description here | Python, ESP32, MQTT |
 
-> 📌 *Replace the placeholders above with your actual projects!*
+> 📌 *Replace the placeholders above with your actual projects and link them!*
 
 </div>
 
