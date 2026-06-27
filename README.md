@@ -221,30 +221,6 @@ const gokul = {
 
 ---
 
-<!-- Snake Animation -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/gokulkotha910/gokulkotha910/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/gokulkotha910/gokulkotha910/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/gokulkotha910/gokulkotha910/output/github-snake.svg"
-    />
-  </picture>
-</div>
-
-> **Note:** To enable the contribution snake, add a GitHub Actions workflow to your profile repository. [See setup guide →](https://github.com/Platane/snk)
-
----
-
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=140&section=footer"/>
 
