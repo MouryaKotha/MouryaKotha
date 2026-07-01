@@ -1,15 +1,20 @@
 <div align="center">
+
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Mourya%20Kotha&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=900&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+IoT+Enthusiast+%F0%9F%A4%96;MERN+Stack+Explorer+%E2%9A%A1;Building+Intelligent+Applications+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+
 <br/>
+
 <!-- Profile Views & Followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MouryaKotha&label=Profile+Views&color=00F7F7&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/MouryaKotha?label=Followers&style=for-the-badge&color=7B42F6&labelColor=0d1117" alt="Followers"/>
 </p>
+
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sri-venkata-mallik-sri-mourya-kotha-088739313" target="_blank">
@@ -28,15 +33,19 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 </div>
+
 ---
- 
+
 <!-- About Me Section -->
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> About Me
- 
+
 ```javascript
 const mourya = {
     pronouns     : "He / Him",
@@ -45,7 +54,7 @@ const mourya = {
     learning     : ["MERN Stack", "System Design", "Cloud Architecture"],
     interests    : ["Problem Solving", "Web Development", "AI/ML", "IoT"],
     motto        : "Bugs in my head never make me sleep ^_^",
- 
+
     getStack() {
         return {
             frontend : ["React.js", "Next.js", "TailwindCSS"],
@@ -56,7 +65,7 @@ const mourya = {
             devops   : ["Docker", "Railway", "Vercel", "Git"],
         };
     },
- 
+
     lifeLoop() {
         while (alive) {
             eat();
@@ -67,25 +76,28 @@ const mourya = {
     }
 };
 ```
- 
+
 <br clear="right"/>
+
 ---
- 
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ---
- 
+
 <!-- Currently Working On -->
 ## 🔭 What I'm Working On
- 
+
 > **JUSTICE AI** — An intelligent legal assistance platform that leverages LLMs to democratize access to legal knowledge, combining NLP pipelines with a MERN stack backend.
- 
+
 ---
- 
+
 <!-- Tech Stack -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"/>
   &nbsp; Tech Arsenal
 </h2>
+
 <details open>
 <summary><b>🎨 Frontend</b></summary>
 <br/>
@@ -97,6 +109,7 @@ const mourya = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 </details>
+
 <details open>
 <summary><b>⚙️ Backend</b></summary>
 <br/>
@@ -106,6 +119,7 @@ const mourya = {
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 </details>
+
 <details open>
 <summary><b>🗄️ Database & Cloud</b></summary>
 <br/>
@@ -115,6 +129,7 @@ const mourya = {
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 </details>
+
 <details open>
 <summary><b>🤖 AI & Embedded IoT</b></summary>
 <br/>
@@ -125,6 +140,7 @@ const mourya = {
   <img src="https://img.shields.io/badge/Prompt_Engineering-00F7F7?style=for-the-badge&logo=instructables&logoColor=black"/>
 </p>
 </details>
+
 <details open>
 <summary><b>💻 Languages & DevOps Tools</b></summary>
 <br/>
@@ -141,74 +157,86 @@ const mourya = {
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 </details>
+
 ---
- 
+
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
- 
+
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MouryaKotha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&icon_color=7B42F6&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MouryaKotha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&icon_color=7B42F6&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 &nbsp;
 <img height="180em" src="https://streak-stats.demolab.com/?user=MouryaKotha&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak"/>
+
 <br/><br/>
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouryaKotha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&text_color=ffffff&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouryaKotha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&text_color=ffffff&langs_count=10" alt="Top Languages"/>
+
 </div>
+
 ---
- 
+
 <!-- Contribution Graph -->
 <h2 align="center">📈 Contribution Graph</h2>
- 
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MouryaKotha&bg_color=0d1117&color=00F7F7&line=7B42F6&point=00F7F7&area=true&area_color=7B42F6&hide_border=true&custom_title=Mourya's%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 </div>
+
 ---
- 
+
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
- 
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MouryaKotha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MouryaKotha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 </div>
+
 ---
- 
+
 <!-- LeetCode Stats -->
 <h2 align="center">⚡ LeetCode Stats</h2>
- 
+
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/mourya_kotha?theme=dark&font=Fira%20Code&ext=activity&border=0&radius=10" alt="LeetCode Stats"/>
 </div>
+
 ---
- 
+
 <!-- Featured Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
- 
+
 <div align="center">
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | ⚖️ **FOCUS MEET** | AI-powered legal assistance platform | MERN, OpenAI API, NLP |
 | 🌐 **Prithvi Smart BIN** | AI-powered Segregation System | React, Node.js, MongoDB |
 | 🤖 **Nexus Care** | RAG-Based Healthcare Platform | RAG, MERN |
- 
+
 </div>
+
 ---
- 
+
 <!-- Fun Facts -->
 <h2 align="center">⚡ Fun Facts</h2>
- 
+
 <div align="center">
+
 🔥 &nbsp; I debug with `console.log` and I'm proud of it  
 🧠 &nbsp; I treat every bug as a puzzle, not a problem  
 ☕ &nbsp; My code compiles better after coffee  
 🌙 &nbsp; "Bugs in my head never make me sleep ^_^"  
 🚀 &nbsp; I believe in building things that matter  
- 
+
 </div>
+
 ---
- 
+
 <!-- Snake Animation -->
 <h2 align="center">🐍 Contribution Snake</h2>
- 
+
 <div align="center">
   <picture>
     <source
@@ -225,10 +253,12 @@ const mourya = {
     />
   </picture>
 </div>
+
 ---
- 
+
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=140&section=footer"/>
+
 <div align="center">
   <i>⭐️ If you like my work, consider starring my repos — it keeps me motivated!</i>
   <br/><br/>
